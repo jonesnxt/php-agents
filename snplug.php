@@ -26,6 +26,7 @@ function init_pluginsocks(plugin_info $plugin, $permanentflag, $bindaddr, $conne
 	{
 		echo $plugin->name.".".$plugin." <<<<<<<<<<<<<<< init_permpairsocks bind.(".$bindaddr.") connect. (".$connectaddr.")\n";
 	}
+	if()
 }
 
 
